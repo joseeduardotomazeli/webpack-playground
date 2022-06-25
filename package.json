@@ -1,6 +1,6 @@
 {
   "name": "webpack-playground",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "webpack serve",
@@ -18,8 +18,10 @@
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
     "babel-loader": "^8.2.2",
     "cross-env": "^7.0.3",
+    "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.3.1",
     "react-refresh": "^0.14.0",
+    "style-loader": "^3.3.1",
     "webpack": "^5.24.4",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^4.9.2"
